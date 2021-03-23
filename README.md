@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤙 &nbsp; 24 year old full-stack dev from Germany 🇩🇪
+- 🤙 &nbsp; 25 year old full-stack dev from Germany 🇩🇪
 - 💼 &nbsp; Working as a frontend developer at //SEIBERT/MEDIA
 
 ### 📖 &nbsp;Currently learning
@@ -32,9 +32,9 @@
 
 ### Atlassian
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket&logoColor=blue)
+![Bamboo](https://img.shields.io/badge/-Bamboo-333333?style=flat&logo=bamboo&logoColor=blue)
 ![Confluence](https://img.shields.io/badge/-Confluence-333333?style=flat&logo=confluence&logoColor=blue)
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=blue)
-![Bamboo](https://img.shields.io/badge/-Bamboo-333333?style=flat&logo=bamboo&logoColor=blue)
 
 ### Misc
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
