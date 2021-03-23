@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤙 &nbsp; 25 year old full-stack dev from Germany 🇩🇪
+- 🤙 &nbsp; 25 years old full-stack dev from Germany 🇩🇪
 - 💼 &nbsp; Working as a frontend developer at //SEIBERT/MEDIA
 
 ### 📖 &nbsp;Currently learning
