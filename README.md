@@ -42,25 +42,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-
-
 <a href="https://github.com/mriot">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mriot&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mriot&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mriot&theme=dracula&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mriot&theme=dracula&layout=compact&langs_count=10&count_private=true" />
 </a>
-
-<br />
-
-<h3> 🗣️ &nbsp;Connect with Me </h3>
-
-<p align="left">
-  <p>Coming soon</p>
-  <!--
-  <a href="https://www.riotcoding.com/">
-    <img alt="Web" src="https://img.shields.io/badge/Web-www.riotcoding.com-blue?style=flat-square&logo=google-chrome">
-  </a>
-  <a href="mailto:mk@riotcoding.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-mk@riotcoding.com-blue?style=flat-square&logo=gmail">
-  </a>
-  -->
-</p>
