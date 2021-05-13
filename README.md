@@ -7,8 +7,8 @@
 
 ### 📖 &nbsp;Currently learning
 
-- [Recoil.js](https://recoiljs.org/)
 - [Svelte](https://github.com/sveltejs/svelte)
+- [Recoil.js](https://recoiljs.org/)
 
 <br>
 
