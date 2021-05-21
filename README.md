@@ -4,7 +4,7 @@
 
 - 🤙 &nbsp; 25 years old full-stack dev from Germany 🇩🇪
 - 💼 &nbsp; Working as a frontend developer at //SEIBERT/MEDIA
-- 💯 Passionate about frontend, automation, reverse-engineering and tooling
+- 💯 &nbsp; Passionate about frontend, automation, reverse-engineering and tooling
 
 ### 📖 &nbsp;Currently learning
 
