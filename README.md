@@ -13,7 +13,7 @@
 
 ### 🔬 &nbsp;My active projects
 
-- A cross platform diary app with Electron and Svelte (~ 10%)
+- A cross platform diary app with Electron and Svelte (~ 35%)
 - A noise indicator app for gaming with Python (~5%)
 
 ---
