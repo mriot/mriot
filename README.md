@@ -29,7 +29,7 @@
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
 <br>
-![Svelte](https://img.shields.io/badge/-Svelte-333333?style=flat&logo=svelte)
+![Svelte](https://img.shields.io/badge/-Svelte_%E2%99%A5-333333?style=flat&logo=svelte)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
