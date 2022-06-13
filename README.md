@@ -3,7 +3,7 @@
 ### 👨‍💻 &nbsp;About Me
 
 - 🤙 &nbsp; 26 years old dude from Germany
-- 💼 &nbsp; Working as a full-stack developer at //SEIBERT/MEDIA
+- 💼 &nbsp; Working as a front-end dev at //SEIBERT/MEDIA
 - 💯 &nbsp; Passionate about frontend, automation, reverse-engineering and tooling
 
 ### 📖 &nbsp;Currently learning
@@ -11,10 +11,10 @@
 - ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
 - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
-### 🔬 &nbsp;My active projects
+### 🔬 &nbsp;My active projects (to be open source soon)
 
-- A cross platform diary app with Electron and Svelte (~ 35%)
-- A noise indicator app for gaming with Python (~5%)
+- Yet another tab manager browser addon with Svelte (~ 60%)
+- A cross platform diary app with Electron and Svelte (~ 40%)
 
 ---
 
