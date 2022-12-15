@@ -3,8 +3,8 @@
 ### 👨‍💻 &nbsp;About Me
 
 - 🤙 &nbsp; 26 years old dude from Germany
-- 💼 &nbsp; Working as a front-end dev at //SEIBERT/MEDIA
-- 💯 &nbsp; Passionate about frontend, automation, reverse-engineering and tooling
+- 💼 &nbsp; Working as a front-end dev
+- 💯 &nbsp; Passionate about frontend, reverse-engineering and tooling
 
 ### 📖 &nbsp;Currently learning
 
@@ -13,8 +13,9 @@
 
 ### 🔬 &nbsp;My active projects (to be open source soon)
 
-- Yet another tab manager browser addon with Svelte (~ 60%)
-- A cross platform diary app with Electron and Svelte (~ 40%)
+- ANSI escape code generator CLI tool with Python
+- Tab manager browser addon with Svelte
+- Cross platform diary app with Electron and Svelte
 
 ---
 
@@ -22,12 +23,12 @@
 
 ### Languages, Frameworks and Tools
 
-![HTML5](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
+![HTML & CSS](https://img.shields.io/badge/-HTML%20&amp;%20CSS-333333?style=flat&logo=HTML5)
 <br>
 ![Svelte](https://img.shields.io/badge/-Svelte_%E2%99%A5-333333?style=flat&logo=svelte)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
