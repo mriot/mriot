@@ -13,15 +13,12 @@
 
 ### 🔬 &nbsp;My active projects (to be open source soon)
 
-- ANSI escape code generator CLI tool with Python
 - Tab manager browser addon with Svelte
 - Cross platform diary app with Electron and Svelte
 
 ---
 
 ## 🛠 &nbsp;My Tech Stack
-
-### Languages, Frameworks and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -38,13 +35,6 @@
 <br>
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
-
-### Atlassian Tools (administration)
-
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket&logoColor=blue)
-![Bamboo](https://img.shields.io/badge/-Bamboo-333333?style=flat&logo=bamboo&logoColor=blue)
-![Confluence](https://img.shields.io/badge/-Confluence-333333?style=flat&logo=confluence&logoColor=blue)
-![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=blue)
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mriot&theme=dracula&show_icons=true&count_private=true" /> -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mriot&theme=dracula&layout=compact&langs_count=10&count_private=true" />
