@@ -8,10 +8,9 @@
 
 ### 📖 &nbsp;Currently learning
 
-- ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
 - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
-### 🔬 &nbsp;My active projects (to be open source soon)
+### 🔬 &nbsp;My active projects
 
 - Tab manager browser addon with Svelte
 - Cross platform diary app with Electron and Svelte
