@@ -10,7 +10,7 @@ Since 2017, I have been working professionally as a frontend developer.
 - 🤙 &nbsp; 26 years old dude from Germany
 - 🐕&nbsp; No pets but I like dogs. [Keas](https://en.wikipedia.org/wiki/Kea) are my favorite animals
 - 🏍️&nbsp; On sunny days, you'll usually find me out on my motorcycle
-- 🤘 &nbsp;&nbsp; Music is what feelings sound like
+- 🤘 &nbsp;&nbsp; I love music
 
 ### 🧠 &nbsp;Currently learning
 
