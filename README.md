@@ -41,4 +41,4 @@ Since 2017, I have been working professionally as a frontend developer.
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mriot&theme=dracula&layout=compact&langs_count=10&count_private=true" />
+<img height="250rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mriot&theme=github_dark&layout=compact&langs_count=10&count_private=true" />
