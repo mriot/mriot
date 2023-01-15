@@ -9,12 +9,12 @@ Since 2017, I have been working professionally as a frontend developer.
 
 - 🤙 &nbsp; 26 years old dude from Germany
 - 🐕&nbsp; No pets but I like dogs. [Keas](https://en.wikipedia.org/wiki/Kea) are my favorite animals
-- 🏍️&nbsp; On sunny days, you'll usually find me out on my motorcycle
+- 🏍️&nbsp; On sunny days, I'm usually out on my motorcycle
 - 🤘 &nbsp;&nbsp; I love music
 
 ### 🧠 &nbsp;Currently learning
 
-- Sveltekit since it's now finally 1.0 🥳
+- Sveltekit since it's now finally 1.0
 
 ### 🔬 &nbsp;My active projects
 
