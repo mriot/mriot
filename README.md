@@ -7,7 +7,7 @@ Since 2017, I have been working professionally as a frontend developer.
 
 ### 👨‍💻 &nbsp;About Me
 
-- 🤙 &nbsp; 26 years old dude from Germany
+- 🤙 &nbsp; 27 years old dude from Germany
 - 🐕&nbsp; No pets but I like dogs. [Keas](https://en.wikipedia.org/wiki/Kea) are my favorite animals
 - 🏍️&nbsp; On sunny days, I'm usually out on my motorcycle
 - 🤘 &nbsp;&nbsp; I love music
