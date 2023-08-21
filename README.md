@@ -14,10 +14,11 @@ Since 2017, I have been working professionally as a frontend developer.
 
 ### 🧠 &nbsp;Currently learning
 
-- Sveltekit since it's now finally 1.0
+- SvelteKit 
 
 ### 🔬 &nbsp;My active projects
 
+- Motorcycle weather companion app with SvelteKit
 - Tab manager browser addon with Svelte
 - Cross platform diary app with Electron and Svelte
 
