@@ -18,7 +18,7 @@ Since 2017, I have been working professionally as a frontend developer.
 
 ### 🔬 &nbsp;My active projects
 
-- Motorcycle weather companion app with SvelteKit
+- Motorcycle weather companion PWA app with Svelte
 - Tab manager browser addon with Svelte
 - Cross platform diary app with Electron and Svelte
 
