@@ -5,12 +5,12 @@
 I began my journey with modding games back in 2011 and discovered my passion for web development in 2012.  
 Since 2017, I have been working professionally as a frontend developer.
 
-### 👨‍💻 &nbsp;About Me
+### 🙋‍‍♂️ &nbsp;About Me
 
 - 🤙 &nbsp; 27 years old dude from Germany
+- 🖥️&nbsp; I love tinkering around to find out how stuff works (check out my projects [easteregg research](https://github.com/mriot/swbf/tree/master/jub-jub) and [enhancing a health-hud](https://github.com/mriot/swbf/tree/master/enhanced-health-hud))
 - 🐕&nbsp; No pets but I like dogs. [Keas](https://en.wikipedia.org/wiki/Kea) are my favorite animals
 - 🏍️&nbsp; On sunny days, I'm usually out on my motorcycle
-- 🤘 &nbsp;&nbsp; I love music
 
 ### 🧠 &nbsp;Currently learning
 
