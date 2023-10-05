@@ -1,6 +1,6 @@
 # Hey there! I am Markus 🖖
 
-### A web developer with a deep fascination for reverse engineering.
+### A web developer with a fascination for reverse engineering.
 
 I began my journey with modding games back in 2011 and discovered my passion for web development in 2012.  
 Since 2017, I have been working professionally as a frontend developer.
