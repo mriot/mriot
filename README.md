@@ -1,11 +1,10 @@
-# Hey there! I am Markus 🖖
+# Hey 👋 
 
-### A web developer with a fascination for reverse engineering.
+### I'm Markus, a web dev who really likes to reverse engineer stuff.
 
-I began my journey with modding games back in 2011 and discovered my passion for web development in 2012.  
-Since 2017, I have been working professionally as a frontend developer.
+I started by modding games back in 2011 and soon discovered my passion for programming. Since 2017, I have been working as a web developer professionally.
 
-### 🙋‍‍♂️ &nbsp;About Me
+### 🙋‍‍♂️ &nbsp;Few facts about me
 
 - 🤙 &nbsp; 27 years old dude from Germany
 - 🖥️&nbsp; I love tinkering around to find out how stuff works *(check out my projects [easteregg research](https://github.com/mriot/swbf/tree/master/jub-jub) and [enhancing a health-hud](https://github.com/mriot/swbf/tree/master/enhanced-health-hud))*
