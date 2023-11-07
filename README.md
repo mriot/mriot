@@ -9,21 +9,13 @@ I started by modding games back in 2011 and soon discovered my passion for progr
 - 🤙 &nbsp; 27 years old dude from Germany
 - 🖥️&nbsp; I love tinkering around to find out how stuff works
   - see my [easteregg research](https://github.com/mriot/swbf/tree/master/jub-jub) and [adding a health display to a game](https://github.com/mriot/swbf/tree/master/enhanced-health-hud)
-- Motorcycle enjoyer on sunny days ☀️ + 🏍️ = ❤️
+- 😍&nbsp; Motorcycle enjoyer <img src="https://raw.githubusercontent.com/mriot/bonfire-svelte/f83f3337d907e647646c02357a5440950f7c9409/src/assets/img/weather/clear-day.svg?token=AF3TCHIJLYQCBMVDXZBPTSTFJJOAG" width="30">➕ <img src="https://github.com/mriot/mriot/assets/24588573/84784dc0-0660-49dd-8551-21cf4d1db24f" width="30">&nbsp; = ❤️
 
-### 🧠 &nbsp;Currently learning
-
-- SvelteKit 
-
-### 🔬 &nbsp;My active projects
-
-- Motorcycle weather companion PWA app with Svelte
-- Tab manager browser addon with Svelte
-- Cross platform diary app with Electron and Svelte
 
 ---
 
-## 🛠 &nbsp;My Tech Stack
+
+## 🛠 &nbsp;Tech I use
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" title="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" title="TypeScript" /></a>
