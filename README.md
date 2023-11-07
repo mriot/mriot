@@ -7,9 +7,9 @@ I started by modding games back in 2011 and soon discovered my passion for progr
 ### 🙋‍‍♂️ &nbsp;Few facts about me
 
 - 🤙 &nbsp; 27 years old dude from Germany
-- 🖥️&nbsp; I love tinkering around to find out how stuff works *(check out my projects [easteregg research](https://github.com/mriot/swbf/tree/master/jub-jub) and [enhancing a health-hud](https://github.com/mriot/swbf/tree/master/enhanced-health-hud))*
-- 🐕&nbsp; No pets but I like dogs. [Keas](https://en.wikipedia.org/wiki/Kea) are my favorite animals
-- 🏍️&nbsp; On sunny days, I'm usually out on my motorcycle
+- 🖥️&nbsp; I love tinkering around to find out how stuff works
+  - see my [easteregg research](https://github.com/mriot/swbf/tree/master/jub-jub) and [adding a health display to a game](https://github.com/mriot/swbf/tree/master/enhanced-health-hud)
+- Motorcycle enjoyer on sunny days ☀️ + 🏍️ = ❤️
 
 ### 🧠 &nbsp;Currently learning
 
