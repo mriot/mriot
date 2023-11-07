@@ -6,10 +6,10 @@ I started by modding games back in 2011 and soon discovered my passion for progr
 
 ### 🙋‍‍♂️ &nbsp;Few facts about me
 
-&nbsp;🤙 &nbsp; I'm a 27 y/o dude from Germany  
-&nbsp;🖥️&nbsp; I love tinkering around to find out how stuff works - it's fun!  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-> See my [easteregg research](https://github.com/mriot/swbf/tree/master/jub-jub) or [health hud mod](https://github.com/mriot/swbf/tree/master/enhanced-health-hud) for the original Star Wars Battlefront game  
-&nbsp;😍&nbsp; Motorcycle enjoyer <img src="https://github.com/mriot/mriot/assets/24588573/14806ffb-27c2-47ef-b14e-09826b7ab067" width="30">➕ <img src="https://github.com/mriot/mriot/assets/24588573/84784dc0-0660-49dd-8551-21cf4d1db24f" width="30">&nbsp; = ❤️  
+&nbsp;🇩🇪&nbsp; 27 y/o motorcycle enjoyer <img src="https://github.com/mriot/mriot/assets/24588573/14806ffb-27c2-47ef-b14e-09826b7ab067" width="30">➕ <img src="https://github.com/mriot/mriot/assets/24588573/84784dc0-0660-49dd-8551-21cf4d1db24f" width="30">&nbsp; = ❤️  
+🖥️&nbsp; I love tinkering around to find out how stuff works - it's fun!  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;See my [easteregg research](https://github.com/mriot/swbf/tree/master/jub-jub) or [health hud mod](https://github.com/mriot/swbf/tree/master/enhanced-health-hud) for the original Star Wars Battlefront game  
+&nbsp;
 
 <!--
 ## ⭐&nbsp;My favs
@@ -31,6 +31,13 @@ I started by modding games back in 2011 and soon discovered my passion for progr
 <br>
 -->
 
----
+<img align="center" height="230rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mriot&theme=github_dark&layout=compact&langs_count=10&count_private=true" />
 
-<img height="230rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mriot&theme=github_dark&layout=compact&langs_count=10&count_private=true" />
+<!--
+<a href="https://github.com/mriot/feed-to-webhook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mriot&repo=feed-to-webhook&theme=github_dark" />
+</a>
+<a href="https://github.com/mriot/feed-to-webhook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mriot&repo=feed-to-webhook&theme=github_dark" />
+</a>
+-->
