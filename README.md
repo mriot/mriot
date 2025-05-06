@@ -1,13 +1,13 @@
 # Hey 👋 
 
-### I'm Markus, a web dev who really likes to reverse engineer stuff.
+### My name’s Markus. I'm a developer who really enjoys reverse engineering. 
 
-I started by modding games back in 2011 and soon discovered my passion for programming. Since 2017, I have been working as a web developer professionally.
+I got into coding through game modding back in 2011 and have been working professionally as a developer since 2017.
 
 ### 🙋‍♂️ &nbsp;Few facts about me
 
 - <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/de.svg" height="12">&nbsp; 28 y/o motorcycle enjoyer from Germany <img src="https://github.com/mriot/mriot/assets/24588573/14806ffb-27c2-47ef-b14e-09826b7ab067" width="30">➕ <img src="https://github.com/mriot/mriot/assets/24588573/84784dc0-0660-49dd-8551-21cf4d1db24f" width="30">&nbsp; = ❤️  
-- 🖥️&nbsp; I love tinkering around to find out how stuff works - it's fun!  
+- 🖥️&nbsp; I love tinkering around to find out how stuff works  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;See my [easteregg research](https://github.com/mriot/swbf/tree/master/jub-jub) or [health hud mod](https://github.com/mriot/swbf/tree/master/enhanced-health-hud) for the original Star Wars Battlefront game  
 &nbsp;
 
