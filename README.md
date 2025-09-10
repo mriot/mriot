@@ -1,6 +1,6 @@
 # Hey 👋 
 
-### My name’s Markus. I'm a developer who really enjoys reverse engineering. 
+### My name’s Markus. I'm a web developer who really enjoys reverse engineering. 
 
 I got into coding through game modding back in 2011 and have been working professionally as a developer since 2017.
 
